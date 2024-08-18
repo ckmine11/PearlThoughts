@@ -4,7 +4,8 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {
+  "dependencies": 
+  awsprovider =vpc
     "@nestjs/common": "^10.0.2",
     "@nestjs/config": "^3.2.2",
     "@nestjs/core": "^10.0.2",
